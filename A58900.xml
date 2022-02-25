@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply of Lewis Sabran of the Society of Jesus to the answer given to his letter written to a peer of the Church of England, by a nameless member of the same</title>
+            <author>Sabran, Lewis, 1652-1732.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58900</idno>
+            <idno type="STC">Wing S220</idno>
+            <idno type="STC">ESTC R7899</idno>
+            <idno type="EEBO-CITATION">11902808</idno>
+            <idno type="OCLC">ocm 11902808</idno>
+            <idno type="VID">50600</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50600)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 509:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply of Lewis Sabran of the Society of Jesus to the answer given to his letter written to a peer of the Church of England, by a nameless member of the same</title>
+                  <author>Sabran, Lewis, 1652-1732.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50600:1"/>
+            <pb n="1" facs="tcp:50600:1"/>
+            <head>A REPLY OF Lewis Sabran OF THE Society of <hi>JESUS,</hi> TO THE ANSWER given to his LETTER
+Written to a Peer of the Church of <hi>England,</hi> by a Nameleſs Member of the ſame.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y Letter to a Peer of the Church of <hi>England,</hi> which you pretend to anſwer in that
+which I now receive from you, hath clear'd me ſufficiently in the Opinion of all Men of Senſe,
+of the Miſtake you charged me with; However, I am willing to caſt away half an Hour in minding
+you more <hi>juſtly,</hi> and more <hi>Charitably</hi> of your diſingenuous Cavils; af<g ref="char:EOLhyphen"/>ter
+which I reſolve never to take any notice of ſuch unknown Masks, or Perſons who conceal their
+Names, that their Errors when bafl'd, their Calumnies when clear'd, may not put them to the
+Bluſh.</p>
+            <p>
+               <pb n="2" facs="tcp:50600:2"/>That Part of the Debate betwixt us, which you
+maintain ſtill, is whether your accuſing me, <hi>of great Ignorance, or notorious
+For<g ref="char:EOLhyphen"/>gery,</hi> for citing a Form of Prayer to the Bleſſed Virgin, as made by St.
+<hi>Auguſtin,</hi> being taken out of the 35 Sermon <hi>de Sanctis,</hi> printed in the 10th Tome
+of his Works; And the Proofs you ſupport your Charge with, evince my Guilt; or rather caſt and
+retort that Blame upon you, and diſcover your inconſide<g ref="char:EOLhyphen"/>rate itch of Scribling, tho it be but
+to nible at three Lines of the Introduction of a Sermon, the Diſcourſe whereof, tho it plainly
+ſets out how unwarantable the Schiſm of your Church was from Catholic, Unity, you have
+prudently thought fit to leave untouch'd.</p>
+            <p>To make out your Charge againſt me, you offer'd theſe three Proofs.</p>
+            <p>The Firſt, That the <hi>Title</hi> of that Sermon, <hi>in the Feaſt of the Aſſumption,
+doth not agree at all to any thing that is near St.</hi> Auguſtins <hi>Time.</hi>
+            </p>
+            <p>I anſwered that your Meaning muſt be either, That no Feaſt<g ref="char:EOLhyphen"/>day of the Bleſſed Virgins
+Aſſumption was kept in St. <hi>Augu<g ref="char:EOLhyphen"/>ſtin</hi>'s Days; or elſe, That nothing was piouſly
+believ'd or thought of then concerning her Aſſumption: If the <hi>Firſt</hi> mean<g ref="char:EOLhyphen"/>ing was
+yours, I prov'd that Inſtance to be of <hi>no Force;</hi> be<g ref="char:EOLhyphen"/>cauſe that Titles of a far
+freſher Date than moſt Sermons of the Holy Fathers bore, have been affixed to them, which were
+preach'd on the Days of ſuch Myſteries, or Saints Deaths, as were not then kept holy: Of this I
+produc'd ſeveral In<g ref="char:EOLhyphen"/>ſtances.</p>
+            <p>As for the <hi>Second</hi> meaning of thoſe Words, I diſcover'd the Error, of taking thoſe
+Words, <hi>on the Aſſumption,</hi> in the Sence they now vulgarly bear, whereas in the Holy
+Fathers Lan<g ref="char:EOLhyphen"/>guage, when apply'd to Saints or the Bleſſed Virgin, they on<g ref="char:EOLhyphen"/>ly ſignified the Day
+<hi>of their Death;</hi> of this I brought again many and plain Proofs; next I produced many
+others, (to which I have more that may be added) to evince that in the Fourth and Fifth Century it
+was piouſly believ'd, that the Bleſſed Vir<g ref="char:EOLhyphen"/>gin was aſſumed in Body into Heaven, tho it
+was not look'd upon as a certain Truth, made out from any Text of Scri<g ref="char:EOLhyphen"/>pture, unqueſtionable
+Tradition from the Apoſtles, or Deciſion of the preſent Church. I conceiv'd this to be ſo
+full an Anſwer to your firſt Proof, as would have forced any one leſs obſtinate
+<pb n="3" facs="tcp:50600:2"/>
+than I find you, to have owned it of no value: But let us ex<g ref="char:EOLhyphen"/>amin what you reply.</p>
+            <p>You tell us <hi>Firſt,</hi> That your meaning was to deny any Belief of the Aſſumption of
+the B. Virgin to have been in St. <hi>Augu<g ref="char:EOLhyphen"/>ſtins</hi> Time, nor conſequently any Sermon on that
+Subject, <hi>which this evidently is. Secondly</hi> that if <hi>Day of Aſſumption</hi> do but
+<hi>almoſt ever</hi> ſignifie the Day of a Saints Death, why may not this be the Exception?
+<hi>Thirdly,</hi> that it cannot be the meaning of this Title, ſince the Sermon ſpeaks of
+<hi>Aſſumption of the Bleſſed Virgin, and that it was the Cuſtom of the Church to
+believe, that the Virgin</hi> Mary <hi>was on the Day of that Solemnity aſſumed into
+Heaven.</hi>
+            </p>
+            <p>This is all you add to ſupport your firſt Proof, that is, firſt a <hi>new Error,</hi> next
+a <hi>falſe Inference,</hi> then a <hi>plain Cheat and Con<g ref="char:EOLhyphen"/>tradiction.</hi>
+            </p>
+            <p>
+               <hi>Tis an Error</hi> that there was not in St. <hi>Auguſtins</hi> time a gene<g ref="char:EOLhyphen"/>ral pious
+Belief (tho uncertain) of the Bleſſed Virgins Aſſum<g ref="char:EOLhyphen"/>ption: I have made it out in my firſt
+Letter, by many Proofs, which (as it is uſual with ſuch Writers) you have not been pleas'd to
+take notice of, and I think unneceſſary to repeat: If you deſire others, you may find them in
+<hi>Natalis Alexandres</hi> Cenſure, of the Book aſcribed to the Holy Biſhop
+<hi>Meliton.</hi>
+            </p>
+            <p>'Tis a <hi>falſe Conſequence</hi> to ſay, <hi>Aſſumption</hi> doth not always
+ſignifie the <hi>Death</hi> of a Saint, therefore here it <hi>may</hi> ſignifie the Corporal
+Aſſumption of the Bleſſed Virgin, <hi>therefore it doth;</hi> yet this is your Inference,
+when you bring that word in <hi>that Senſe</hi> againſt me, without any Proof for it. 'Tis a
+wilful Miſ<g ref="char:EOLhyphen"/>take of yours, by which you make me ſay: That in the An<g ref="char:EOLhyphen"/>cient Writings, <hi>Feaſt
+or Day of Aſſumption</hi> when apply'd to Saints did <hi>only almoſt always</hi> ſignifie
+the Day of <hi>their Death:</hi> It <hi>always</hi> bore that meaning apply'd to them, tho we
+ſometimes find that in a different Senſe it ſignified the Feſtival kept on the Day of the
+Coronation of Princes, or inthroning of Biſhops.</p>
+            <p>'<hi>Tis a Cheat</hi> impos'd upon vulgar Readers to inſinuate that the 35th Sermon cited by
+me, doth not ſpeak of the Bleſſed Vir<g ref="char:EOLhyphen"/>gins Death, but of her <hi>Aſſumption</hi> in the
+Senſe which that word now vulgarly bears. The Author of it Plainly expreſſes the contrary in
+Words, like to thoſe we find in all the Writings of the ancient Fathers on this Subject. They be
+theſe: The World is honour'd by <hi>ſo great a Virgins Departure, in what Order or Man<g ref="char:EOLhyphen"/>ner
+<pb n="4" facs="tcp:50600:3"/>
+ſhe paſſed hence to Heaven, the Catholic Church doth no way recount: neither is her Body
+found on Earth, neither is her Aſſum<g ref="char:EOLhyphen"/>ption in the Fleſh, (as it is read in the</hi>
+Apocrypha's <hi>found in the Ca<g ref="char:EOLhyphen"/>tholic Church; this is the true Opinion concerning her
+Aſſumption, that not knowing whether in her Body or out of it, as the Apoſtle hath: We
+believe her aſſumed above the Angels.</hi> Now what a <hi>Contradi<g ref="char:EOLhyphen"/>ction</hi> is it or a
+<hi>plain Cheat,</hi> to ſay that this Sermon was preach<g ref="char:EOLhyphen"/>ed, when the Church did believe,
+<hi>that the Virgin</hi> Mary <hi>was in the Day of that Solemnity aſſumed into
+Heaven.</hi>
+            </p>
+            <p>Next you make a large flouriſh of 30 lines and an Eſſay of a School-boys Rhetoric, which
+moves me to believe that 'tis not long ſince you are come from it. Your Subject is my <hi>groſs
+Error</hi> in ſaying the 14th Sermon de Sanctis <hi>was allowed by all,</hi> that the
+<hi>Title</hi> of it was, <hi>In the Feaſt of all Saints,</hi> the Subject, the Praiſes of a
+Virgin and Martyr; you took great Pains to find it out as you aſſure us, thinking there might
+have been in the Citation ſome Errors of the Preſs; but in vain, and therefore you lay it to my
+Charge. So many particulars as were cited by me, would have ſufficiently directed any one that
+was not reſolved to miſtake me, that he might fancy ſomething to object againſt. There are
+but <hi>two</hi> 14th Sermons de Sanctis, that of the firſt ancient Collection, and that in the
+other Compila<g ref="char:EOLhyphen"/>tion of 17, made by the <hi>Divines</hi> of <hi>Paris,</hi> the 14th of theſe I
+cited, its Title is, <hi>In the Feaſt of all Saints,</hi> 'tis on a <hi>Virgin Mar<g ref="char:EOLhyphen"/>tyr,</hi> and
+that you may miſtake it no more, take the firſt lines of it. <hi>We are put in mind by the
+Solemnity of a Sacred Virgin which bore Witneſs to Chriſt, and receiv'd it from Chriſt
+publickly put to Death, privately Crown'd,</hi> &amp;c. Pray, Sir, be hereafter ſomewhat leſs
+raſh in your Rhetorical Declamations, which may do your Work in your Pulpits; but are ever
+unbeſeeming in a Con<g ref="char:EOLhyphen"/>troverſie Letter, when ſo empty of all Reaſon.</p>
+            <p>Your Second Objection was, That the Divines of <hi>Lovain</hi> tell us how <hi>in ſeveral MSS.
+this Sermon was intituled Fulbertus Camoſenſis.</hi>
+            </p>
+            <p>I anſwered, this was no Proof in this Caſe; St. <hi>Ambroſe</hi>'s Sermons, St. <hi>Peter
+Chryſologus</hi>'s, and others being not leſs un<g ref="char:EOLhyphen"/>queſtionably owned to be theirs, tho ſome
+antient MSS. inti<g ref="char:EOLhyphen"/>tled others to them. I gave ſeveral Inſtances of this Truth, which I
+conceiv'd to bear away all Force from your Objection, which is all pretended unto, being in
+Poſſeſſion of the ancient
+<pb n="5" facs="tcp:50600:3"/>
+and general Perſwaſion that 'this Sermon was St. <hi>Auguſtins</hi> ge<g ref="char:EOLhyphen"/>nuine Work.</p>
+            <p>You have in your Anſwer, brought to ſupport your weak proof, <hi>Firſt,</hi> that I
+omitted to take any notice of half of it, to wit, That the <hi>Benedictins</hi> of <hi>Paris</hi>
+had MSS. in which this Sermon had no Authors name prefix'd. <hi>Secondly,</hi> you ask me whether I
+would prove, becauſe St. <hi>Ambroſe</hi> his Sermons have appear'd in ancient MSS. under other
+Authors Names, that therefore <hi>this</hi> Sermon <hi>muſt</hi> be St. <hi>Auguſtin</hi>'s,
+tho' it bears not his Name either in the MSS. uſed by the <hi>Lovain</hi> Doctors, or the
+<hi>Benedictins</hi> of <hi>Paris. Thirdly,</hi> you ſay that ancient Fathers Sermons are known
+to be theirs, from their <hi>Stile,</hi> or becauſe aſſerted to them by the moſt and beſt
+MSS. Your <hi>firſt</hi> Anſwer is <hi>ridiculous,</hi> your <hi>ſecond</hi> of <hi>no
+force,</hi> and beſides evidently <hi>falſe</hi> and <hi>contradictory;</hi> the third
+<hi>againſt your ſelf.</hi>
+            </p>
+            <p>Were it not <hi>ridiculous,</hi> after a <hi>poſitive</hi> Witneſs produced for a Plaintiff,
+who challenges for his, Goods found in anothers hands; when ſuch an Evidence is proved of no
+force, to preſent <hi>another,</hi> who only ſays, that <hi>he knows not to whom ſuch Goods
+be<g ref="char:EOLhyphen"/>long?</hi> Were it not a pleaſant folly, to value much ſuch a Wit<g ref="char:EOLhyphen"/>neſs, and pretend the
+adverſe party muſt be <hi>much afraid</hi> he ſhould be heard? I pitied your weakneſs, Sir,
+in bringing ſuch an ad<g ref="char:EOLhyphen"/>ditional proof, and paſs it by, becauſe I love not to inſult on an
+erring Adverſaries patent miſtake.</p>
+            <p>But doth it follow from ſeveral Fathers Sermons appearing in MSS. under others Names, that
+this <hi>35th.</hi> Sermon <hi>muſt</hi> be St. <hi>Auguſtin</hi>'s? No, Sir; but it
+<hi>evidently</hi> follows, that it <hi>may be,</hi> for all the reaſon you offer to diſprove
+it. But with what <hi>diſin<g ref="char:EOLhyphen"/>genuity</hi> and <hi>real forgery</hi> do you inſinuate
+(<hi>pag.</hi> 7.) That <hi>this Ser<g ref="char:EOLhyphen"/>mon bears not his</hi> (St. <hi>Auguſtin</hi>'s) <hi>Name
+either in the MSS. uſed by the</hi> Lovain <hi>Divines, or by the</hi> Benedictins; when you own
+your ſelf, that the <hi>Lovain</hi> Divines only ſay it is not in <hi>ſeveral</hi> of their
+MSS.?</p>
+            <p>But do you not egregiouſly <hi>deſtroy</hi> your own Cauſe, when you appeal to
+<hi>moſt</hi> ancient MSS. and the known <hi>Stile</hi> of the Author? Was not that eminent
+Doctor of the Catholic Church, St. <hi>Thomas</hi> of <hi>Aquine,</hi> better acquainted with St.
+<hi>Auguſtin</hi>'s Stile, (being call'd <hi>Auguſtinus Contractus</hi>) than you dare, (if yet
+there be any thing you dare not attempt) preſume your ſelf to be? Had he
+<pb n="6" facs="tcp:50600:4"/>
+not as great a plenty, He and all his Contemporaries, and of freſher Manuſcripts?</p>
+            <p>Your <hi>laſt Inſtance</hi> was, That <hi>Iſidore</hi> being quoted in that Ser<g ref="char:EOLhyphen"/>mon,
+'<hi>tis certain</hi> that it was not written two hundred years after St. <hi>Auguſtin,</hi> and
+<hi>probably</hi> not till a thouſand years after Chriſt, being <hi>Fulbertus</hi> his
+work.</p>
+            <p>I anſwered, That it <hi>was evident,</hi> the <hi>Iſidore</hi> quoted there <hi>could
+not</hi> be him you mean, or any of that Name that lived after St. <hi>Au<g ref="char:EOLhyphen"/>guſtin,</hi> and
+therefore muſt be ſome one of thoſe many and illuſtri<g ref="char:EOLhyphen"/>ous <hi>Iſidores</hi> who lived in
+and before his time. This I proved evi<g ref="char:EOLhyphen"/>dently from the following words of this very Sermon in
+debate. <hi>In our time no Author amongſt the Latins can be found, who treating of the
+Bleſſed Virgins Death hath been poſitive and expreſs;</hi> for no one could be ignorant of
+what ſo famous an Author as St. <hi>Gregory Fur.</hi> had in his Hiſtory plainly and fully
+written in the ſixth Age, or of that Sermon cited under the Name of St. <hi>Hierom,</hi> and
+cer<g ref="char:EOLhyphen"/>tainly written by one who lived near the time of the fourth Gene<g ref="char:EOLhyphen"/>ral Council; a Sermon cited by
+the famous <hi>Hinkmar</hi> Biſhop of <hi>Rhemes</hi> in the ninth Century. <hi>J. Odilo,</hi>
+and ſeveral others of the ſame Age of <hi>Fulbertus,</hi> or of the Book adſcribed to St.
+<hi>Meli<g ref="char:EOLhyphen"/>ton,</hi> which was piouſly valued by many, as <hi>John Camoſenſis,</hi>
+Contemporary to <hi>Fulbertus,</hi> acknowledges. This was a full An<g ref="char:EOLhyphen"/>ſwer; but you muſt attempt
+to diſprove it.</p>
+            <p>
+               <hi>Firſt,</hi> you ſay, That I cannot prove that any of thoſe <hi>Iſidores</hi> who
+were before St. <hi>Auguſtin</hi> were Writers. <hi>Secondly,</hi> that had I look't into the
+<hi>Lovain</hi> Edition of St. <hi>Auguſtin,</hi> I ſhould have ſeen out of what Book of that
+<hi>Iſidore,</hi> who lived in the ſeventh Century, the paſſage is taken. <hi>Thirdly,</hi>
+That my believing this Sermon to be St. <hi>Auguſtin</hi>'s, becauſe <hi>Thomas Aquinas</hi>
+(who is no leſs eminent a Saint for your refuſing to call him ſo) believed it, after the
+Judgment of the <hi>Lovain</hi> Divines, and preſent <hi>Benedictins</hi> of <hi>Paris,</hi> is
+an <hi>unbecoming obſtinacy.</hi> Your <hi>firſt</hi> Anſwer is <hi>childiſh;</hi> your
+<hi>ſecond</hi> was anſwered in my firſt Letter; your <hi>third</hi> a proof of a moſt
+<hi>proud raſhneſs,</hi> in ſlighting the Authority of a Doctor ſo eminent, that above one
+half of the Divines of the Chriſtian World do own him for Maſter, and bind themſelves to
+maintain all he hath taught.</p>
+            <p>After I have proved that the Sermon, in which one <hi>Iſidore</hi> is ci<g ref="char:EOLhyphen"/>ted, muſt of
+neceſſity have been made in or about St. <hi>Auguſtin</hi>'s
+<pb n="7" facs="tcp:50600:4"/>
+time; is it not a childiſh Anſwer, to pretend that I muſt beſides prove ſome
+<hi>Iſidore</hi> before his time was a Writer, before I can make out that it was not that
+<hi>Iſidore</hi> (who lived not of two hun<g ref="char:EOLhyphen"/>dred years after him) that he cited in his
+Writings?</p>
+            <p>I have alſo in my Letter to the <hi>Proteſtant Peer</hi> ſhewed that the Citation of
+<hi>Iſidore</hi> could not be made out to be taken out of the Book cited by the <hi>Lovain</hi>
+Doctors, the doubt there propoſed be<g ref="char:EOLhyphen"/>ing obvious, having been made before St.
+<hi>Auguſtin</hi>'s time, by St. <hi>Epiphanius, &amp;c.</hi>
+            </p>
+            <p>But pray, Sir, by what Equivocation will you excuſe him who ſhall ſay, <hi>No body writ of
+ſuch a ſubject poſitively,</hi> only mean<g ref="char:EOLhyphen"/>ing that what was written <hi>was not true?</hi>
+yet thus you make the holy Biſhop <hi>Fulbertus</hi> to ſpeak. I never ſaid (as you intimate)
+that St. <hi>Bernard</hi> disbelieved the bleſſed Virgins Aſſumption, his
+<hi>Epiſtle</hi> 174. ſhews he piouſly believed it, tho' not as certain. Let me add, That if
+you will but read the Sermon in debate, and <hi>Fulbertus</hi> his ſecond Sermon of the Nativity
+of the B. Virgin, you will be forced to own the ſame could not be Author of both; the
+<hi>One</hi> aſſuring us, that the Church taught nothing of the Corporal Aſſumption of the
+Virgin; the <hi>Other</hi> teaches, that <hi>Chriſtian Piety</hi> (all pious Chriſtians)
+<hi>believed that Chriſt raiſed gloriouſly his Mo<g ref="char:EOLhyphen"/>ther, and placed her above the
+Heavens;</hi> and that even St. <hi>John</hi> Baptiſt did partake of her Glory.</p>
+            <p>As for the <hi>18th.</hi> Sermon <hi>de Sanctis,</hi> which I ſaid was owned by the
+<hi>Lovain</hi> Divines, let me tell you, that you impoſe upon leſs thinking Readers, when you
+repreſent <hi>that</hi> my aſſertion as <hi>falſe. Natalis Alexandre,</hi> one of the
+lateſt Critics, acknowledges they own it, and on that ſcore cites it. But your proof, I
+confeſs, forced a ſmile from me; 'tis that they put this Note before it, <hi>Some at<g ref="char:EOLhyphen"/>tribute
+this Sermon to Fulgentius.</hi> Your Inference hath as little of common ſenſe, as this
+following one would have of force againſt me; <hi>that I own ſome have attributed the</hi>
+35th. <hi>Sermon</hi> de Sanctis <hi>to</hi> Fulbertus, <hi>therefore I do not believe it to be
+St.</hi> Auguſtin'<hi>s.</hi> This Inference is to me a piece of very new, and very rare
+Logic.</p>
+            <p>Here, Sir, I part with you, hoping I have ſatisfied all reaſonable men that I had ground
+enough to cite this <hi>35th.</hi> Sermon of St. <hi>Auguſtin</hi>'s, without <hi>ignorance</hi>
+or <hi>forgery,</hi> and that my charge againſt you. <hi>That the Church of</hi> England <hi>is
+condemned by your own words, as guilty of Schiſm, for ſeparating from the Church of</hi> Rome
+<pb n="8" facs="tcp:50600:5"/>
+               <hi>on that account of the Invocation of Saints, which was taught by St.</hi> Au<g ref="char:EOLhyphen"/>guſtin, <hi>and
+all the Fathers of his Age, and the precedent Century,</hi> is evidently made out beyond the
+poſſibility of a ſeeming Anſwer, or it would have had it, from One who hath <hi>Time</hi>
+and <hi>Confidence</hi> enough to nibble at a ſhort Prayer ſet in the entrance of a Ser<g ref="char:EOLhyphen"/>mon,
+tho' not on deſign to clear any point there debated; and to accuſe me of <hi>Forgery</hi> and
+<hi>Diſingenuity,</hi> without any proof in hand to make good ſo heavy a charge, and to
+juſtifie his moſt inſolent boaſting. I am ſorry, Sir, that you force from me harſher
+words than I would ever uſe, except in the defence of Truth, which you unavoidably put me upon,
+who nevertheleſs ſhall ever ſo far diſtinguiſh betwixt <hi>the Man</hi> and <hi>his
+Errors,</hi> as to be equally a conſtant Enemy to <hi>Theſe,</hi> and,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your true Friend and Servant, LEWIS SABRAN, <hi>of the Society of
+Jeſus.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Ex<g ref="char:EOLhyphen"/>cellent
+Majeſty for his Houſhold and Chappel; And are to be ſold at his Printing-houſe on the
+Ditch<g ref="char:EOLhyphen"/>ſide in <hi>Black-Fryars.</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
